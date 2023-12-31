@@ -65,7 +65,7 @@ export default class ProductManager {
 
 }
 
-const productos = new ProductManager
+//const productos = new ProductManager
 
 
 productos.addProduct("Titulo1", "Description1", 1000, "image1", "abc121", 10)
